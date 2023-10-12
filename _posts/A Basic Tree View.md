@@ -1,6 +1,6 @@
 ---
 created: 2023-10-12T22:23:24+02:00
-modified: 2023-10-12T22:23:53+02:00
+modified: 2023-10-12T22:31:18+02:00
 ---
 
 # A Basic Tree View
@@ -8,3 +8,5 @@ modified: 2023-10-12T22:23:53+02:00
 https://grapoza.github.io/vue-tree/5.2.0/?path=/docs/examples-treeview--basic#examples
 
 https://grapoza.github.io/vue-tree/5.2.0/?path=/docs/grapoza-vue-tree-home--page
+
+https://www.jstree.com/plugins/
