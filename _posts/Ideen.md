@@ -9,6 +9,10 @@ type: Checklist
 - [ ] Fifa23
 - [ ] Schattendrache
 - [x] Sound Machine
-- [ ] Ford turneo Customize l1
+- [ ] Ford Turneo Custom l1
 - [ ] Super Mario Kinofilm
 - [ ] Glasfaser Anschluss
+
+
+- [ ] .Dst Datei Format 
+- [ ] Zug nach Enschede mit Verena & co
