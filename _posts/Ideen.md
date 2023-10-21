@@ -1,6 +1,6 @@
 ---
 created: 2023-10-02T12:25:15+02:00
-modified: 2023-10-21T13:03:42+02:00
+modified: 2023-10-21T13:58:46+02:00
 type: Checklist
 ---
 
@@ -18,4 +18,5 @@ type: Checklist
 - [ ] Zug nach Enschede mit Verena & co
 - [ ] Leasingmarkt. De
 - [ ] Koffer, Trolli
-- [ ] Versteigerung Immobilien Website crawler 
+- [ ] Versteigerung Immobilien Website crawler
+- [ ] Klodeckel dg
