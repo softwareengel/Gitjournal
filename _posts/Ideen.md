@@ -1,6 +1,6 @@
 ---
 created: 2023-10-02T12:25:15+02:00
-modified: 2023-10-17T20:31:13+02:00
+modified: 2023-10-21T13:02:46+02:00
 type: Checklist
 ---
 
@@ -14,8 +14,8 @@ type: Checklist
 - [ ] Glasfaser Anschluss
 
 
-- [ ] .Dst Datei Format 
+- [ ] .Dst Datei Format, Base cap
 - [ ] Zug nach Enschede mit Verena & co
 - [ ] Leasingmarkt. De
 - [ ] Koffer, Trolli
-- [ ] Versteigerung 
+- [ ] Versteigerung
