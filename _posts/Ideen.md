@@ -1,6 +1,6 @@
 ---
 created: 2023-10-02T12:25:15+02:00
-modified: 2023-10-21T13:58:46+02:00
+modified: 2023-11-12T13:55:47+01:00
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [ ] Koffer, Trolli
 - [ ] Versteigerung Immobilien Website crawler
 - [ ] Klodeckel dg
+- [ ] Wb moves repo
