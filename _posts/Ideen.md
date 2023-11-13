@@ -10,14 +10,14 @@ type: Checklist
 - [ ] Schattendrache
 - [x] Sound Machine
 - [ ] Ford Turneo Custom l1
-- [ ] Super Mario Kinofilm
+- [x] Super Mario Kinofilm
 - [ ] Glasfaser Anschluss
 
 
 - [ ] .Dst Datei Format, Base cap
 - [ ] Zug nach Enschede mit Verena & co
 - [ ] Leasingmarkt. De
-- [ ] Koffer, Trolli
+- [x] Koffer, Trolli
 - [ ] Versteigerung Immobilien Website crawler
 - [ ] Klodeckel dg
 - [ ] Wb moves repo
