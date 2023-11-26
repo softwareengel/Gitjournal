@@ -1,6 +1,6 @@
 ---
 created: 2023-11-26T12:15:28+01:00
-modified: 2023-11-26T14:38:56+01:00
+modified: 2023-11-26T15:27:53+01:00
 ---
 
 # Wichtel
@@ -19,3 +19,7 @@ https://www.amazon.de/NATURECA-Baumwollbezug-Rei%C3%9Fverschluss-Nackenkissen-Na
 
 https://www.amazon.de/dp/B0BNYXQQX3?linkCode=xm2&camp=2025&creative=165953&smid=A3JWKAKR8XB7XF&creativeASIN=B0BNYXQQX3&tag=preissuchmasc-21&ascsubtag=411166787782556004
 Kurbel Radio
+
+Badehose
+
+BT Transmitter Auto
