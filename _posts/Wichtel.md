@@ -1,6 +1,6 @@
 ---
 created: 2023-11-26T12:15:28+01:00
-modified: 2023-11-26T13:17:32+01:00
+modified: 2023-11-26T13:34:27+01:00
 ---
 
 # Wichtel
@@ -10,3 +10,6 @@ https://www.amazon.de/getDigital-11780-Schneidebrett-K%C3%BCchenbrett-Hochpr%C3%
 Bade Poncho
 
 Base Cap
+
+Handtuch Orange microfaser 
+https://www.decathlon.de/p/mikrofaser-badetuch-xl-110x175cm/_/R-p-158653 12,99€
