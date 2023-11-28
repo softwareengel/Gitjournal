@@ -1,6 +1,6 @@
 ---
 created: 2023-11-28T20:17:52+01:00
-modified: 2023-11-28T23:34:51+01:00
+modified: 2023-11-28T23:38:23+01:00
 ---
 
 # Map vector Maptiler Dortmund
@@ -30,3 +30,5 @@ pg_featureserv
 https://github.com/CrunchyData/pg_featureserv
 
 https://zulip.gis.chat/
+
+https://www.i-programmer.info/news/145-mapping-a-gis/16772-spatial-data-management-for-gis-and-data-scientists.html
